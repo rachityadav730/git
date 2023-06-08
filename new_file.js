@@ -1,2 +1,1 @@
-console.log("jun_2023 file add to main branch")
-console.log(" added new file from pullgitcode")
+console.log(" remove all data from new fil\e")
