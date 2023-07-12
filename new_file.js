@@ -1,0 +1,1 @@
+console.log(" remove all data from new fil\e")
