@@ -4,10 +4,9 @@ console.log("add done some chnagesin cloning file")
 
 console.log("Adfdfasadfadfa")
 
-console.log("add some chnages in main files")
+var b = "radhe radhe in cloneing bracnh"
+var a  = "varable a in clomning branch"
 
-var a = 7788
-var b = 23424
 
 var c = a +b
 
