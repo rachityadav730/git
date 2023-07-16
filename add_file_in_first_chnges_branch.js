@@ -8,6 +8,6 @@ var b = "radhe radhe in cloneing bracnh"
 var a  = "varable a in clomning branch"
 
 
-var c = b +c
+var c = d  +f
 
 console.log("value of ba nd c changed",c)
