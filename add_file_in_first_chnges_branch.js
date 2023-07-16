@@ -7,7 +7,7 @@ console.log("Adfdfasadfadfa")
 var b = "radhe radhe in cloneing bracnh"
 var a  = "varable a in clomning branch"
 
-
-var c = d  +f
+// remove some line from main 
+// that consist of value of a and b
 
 console.log("value of ba nd c changed",c)
