@@ -1,6 +1,9 @@
 console.log("chnage this line to privious line")
 
 console.log("add some line in new bran clone i am doing somr inmain branch ")
+console.log(
+    "all new line in new_branch_in_clone"
+)
 
 console.log("Adfdfasadfadfa")
 
