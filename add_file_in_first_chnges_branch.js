@@ -5,9 +5,10 @@ console.log("add some chenges in main file")
 // and done some airthmatic problem
 
 var a= 20
+var sdf = 30
 var b =40
 c =a+b+c
-console.log("print the valure of c",c)
+console.log("print the valure of c",c,sdf)
 console.log("Adfdfasadfadfa")
 
 var b = "radhe radhe in cloneing bracnh"
