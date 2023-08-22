@@ -5,7 +5,7 @@ console.log("add some chenges in main file")
 // and done some airthmatic problem
 
 var a= 1000
-var d = 450
+var sdf = 450
 var b =100
 c =a+b+c
 console.log("print the valure of c",c,d)
