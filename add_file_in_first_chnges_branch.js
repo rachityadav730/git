@@ -4,10 +4,11 @@ console.log("add some line in new bran clone i am doing somr inmain branch ")
 console.log("add some chenges in main file")
 // and done some airthmatic problem
 
-var a= 20
-var b =40
+var a= 1000
+var d = 450
+var b =100
 c =a+b+c
-console.log("print the valure of c",c)
+console.log("print the valure of c",c,d)
 console.log("Adfdfasadfadfa")
 
 var b = "radhe radhe in cloneing bracnh"
